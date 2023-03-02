@@ -1,10 +1,9 @@
 #!/bin/bash
 
 if [ -e $1 ]; then
-    filename=`date +ver_%Y%m%d_%H:%M:%S`
-    mkdir ./$1/${filename}
-    mv ./$1/*.* ./$1/${filename}
-    cp template/* $1
+    dirname=`date +backup_%Y%m%d_%H:%M:%S`
+    mkdir ./$1/${dirname}
+    cp ./$1/*.* ./$1/${dirname}
 else
     cp -r template $1
 fi
