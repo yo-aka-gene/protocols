@@ -20,3 +20,4 @@
 - PO aspiration
 - apply fibro 500μL (at least) each
 - 37°C incubation x30 min (at least)
+- aspirate fibro before applysing samples (without PBS wash)
