@@ -1,9 +1,11 @@
 #!/bin/bash
 
-if [ -e $1 ]; then
+dirpath=./markdown/$1
+
+if [ -e ${dirpath} ]; then
     dirname=`date +backup_%Y%m%d_%H:%M:%S`
-    mkdir ./$1/${dirname}
-    cp ./$1/*.* ./$1/${dirname}
+    mkdir ${dirpath}/${dirname}
+    cp ${dirpath}/*.* ${dirpath}/${dirname}
 else
-    cp -r template $1
+    cp -r template ${dirpath}
 fi
