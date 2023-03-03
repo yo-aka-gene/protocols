@@ -4,15 +4,15 @@
 | name | dose | ratio |
 | :---: | ---: | :---: |
 | MHM | 500 mL | - |
-| p/s | 500 μL | 1:1000 |
+| p/s | 500 uL | 1:1000 |
 
 ### NS medium
 | name | dose | ratio |
 | :---: | ---: | :---: |
 | MHM with p/s | 50 mL | - |
-| B27 | 1000 μL | 1:50 |
-| FGF | 50 μL | 1:1000 |
-| EGF | 50 μL | 1:1000 |
+| B27 | 1000 uL | 1:50 |
+| FGF | 50 uL | 1:1000 |
+| EGF | 50 uL | 1:1000 |
 
 ## Methods
 ### Culture (from PNS stock)
@@ -28,8 +28,8 @@
 #### day1
 - prepare `adherent 24-well dish for observation`
 - aspirate fibro. in the wells
-- apply NS medium 500μL each
-- transfer culturing suspension 200μL each from T75 into wells
+- apply NS medium 500uL each
+- transfer culturing suspension 200uL each from T75 into wells
 - 37°C incubation for 30-40 min
 - confirm with microscope that nerospheres firmly adhere to the floor
 - aspiration
@@ -42,26 +42,30 @@
 
     | name | dose | ratio |
     | :---: | ---: | :---: |
-    | Blocking One | 500 μL | - |
-    | α-xxx Mouse mAb | 0.5 μL | 1:1000 |
-    | α-yyy Rabbit mAb | 0.5 μL | 1:1000 |
+    | Blocking One | 500 uL | - |
+    | anti-xxx Mouse mAb | 0.5 uL | 1:1000 |
+    | anti-yyy Rabbit mAb | 0.5 uL | 1:1000 |
 - 4°C o/n with shading
+
 #### day2
-- PBS wash x2
+- PBS wash x3
 - apply Secondary Ab Mix
     - e.g.) Secondary Ab Mix (for 1 well)
 
     | name | dose | ratio |
     | :---: | ---: | :---: |
-    | Blocking One | 500 μL | - |
-    | α-Mouse Gt | 0.5 μL | 1:1000 |
-    | α-Rabbit Dk | 0.5 μL | 1:1000 |
+    | Blocking One | 500 uL | - |
+    | anti-Mouse Gt | 0.5 uL | 1:1000 |
+    | anti-Rabbit Dk | 0.5 uL | 1:1000 |
 - shade in RT x1hr (approx.)
 - PBS wash x2
 - apply 1:1000 hochest
 
     | name | dose | ratio |
     | :---: | ---: | :---: |
-    | PBS | 500 μL | - |
-    | hochest | 0.5 μL | 1:1000 |
-- shade in RT x15min (approx.)
+    | PBS | 500 uL | - |
+    | hochest | 0.5 uL | 1:1000 |
+- shade in RT x5min (approx.)
+- PBS wash x2
+- wait until wells get dry
+- observe with KEYENCE
