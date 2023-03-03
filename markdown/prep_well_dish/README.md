@@ -8,7 +8,7 @@
 ### fibronectin (fibro)
 | name | dose | ratio |
 | :---: | ---: | :---: |
-| fibronectin | 500 μL | 1:100 |
+| fibronectin | 500 uL | 1:100 |
 | PBS | 50 mL | - |
 
 ## Methods
@@ -18,6 +18,6 @@
 
 ### day2
 - PO aspiration
-- apply fibro 500μL (at least) each
+- apply fibro 500uL (at least) each
 - 37°C incubation x30 min (at least)
 - aspirate fibro before applysing samples (without PBS wash)
