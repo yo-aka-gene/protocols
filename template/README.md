@@ -4,7 +4,7 @@
 | name | dose | ratio |
 | :---: | ---: | :---: |
 |  |  mL | 1: |
-|  |  μL | 1: |
+|  |  uL | 1: |
 
 ## Methods
 ### proc_1
