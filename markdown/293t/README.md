@@ -23,7 +23,9 @@
 - aspirate fibro. in the wells
 - apply 293T medium 500uL each
 - after pipetting for several times, transfer culturing suspension 200uL each from T25 into wells
-- 37°C incubation for 30-40 min
+- 37°C incubation o/n
+
+#### day2
 - confirm with microscope that 293T firmly adhere to the floor
 - aspiration
 - process with PFA x45min (approx.) in RT
@@ -40,7 +42,7 @@
     | anti-yyy Rabbit mAb | 0.5 uL | 1:1000 |
 - 4°C o/n with shading
 
-#### day2
+#### day3
 - PBS wash x3
 - apply Secondary Ab Mix
     - e.g.) Secondary Ab Mix (for 1 well)
