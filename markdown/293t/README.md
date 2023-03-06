@@ -17,6 +17,16 @@
 - after confirmation with a microscope, transfer to the incubator
 - culture for 5 days (approx.)
 
+### Passage
+- pipetting for several times to dettach cells from T25
+- apply all to 15mL tube
+- centrifuge 1200rpm x5min
+- aspiration
+- resuspend with 40mL 293T medium
+- apply all to T75
+- after confirmation with a microscope, transfer to the incubator
+- culture for 5 days (approx.)
+
 ### Immunofluorescense
 #### day1
 - prepare `adherent 24-well dish for observation`
