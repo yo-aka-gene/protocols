@@ -40,7 +40,7 @@
 - aspiration
 - process with PFA x45min (approx.) in RT
 - PBS wash x4
-- process with 0.3% TX x15min (approx.) in RT
+- process with 0.3% TX x5min (approx.) in RT
 - PBS wash x2
 - apply Primary Ab Mix
     - e.g.) Primary Ab Mix (for 1 well)
